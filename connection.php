@@ -2,9 +2,9 @@
 
 try {
     $host = "localhost";
-    $dbname = "zadaca1_db";
-    $username = "root";
-    $password = "root";
+    $dbname = "example_db";
+    $username = "user";
+    $password = "pass";
 
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
 } catch (PDOException $pe) {

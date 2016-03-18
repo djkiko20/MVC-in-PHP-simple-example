@@ -12,11 +12,11 @@ Project contain:
 	(index.php)
 
 * Database file is in folder "Database"
-	(zadaca1_db.sql)
-* Create database in your PhpMyAdmin with name: zadaca1_db
+	(example_db.sql)
+* Create database in your PhpMyAdmin with name: example_db
 	and then IMPORT sql file.
 
 
 If you have any question, contact me on e-mail: djkiko15@gmail.com
-or on my e-portfolio: www.hristianilioski.com
+or on my e-portfolio: www.ilioski.info
 
