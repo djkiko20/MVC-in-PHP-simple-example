@@ -17,6 +17,5 @@ Project contain:
 	and then IMPORT sql file.
 
 
-If you have any question, contact me on e-mail: djkiko15@gmail.com
-or on my e-portfolio: www.ilioski.info
+If you have any question, contact me on e-mail: hristian.ilioski@gmail.com
 
